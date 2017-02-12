@@ -75,14 +75,8 @@ input {
   -moz-border-radius: 9999px;
   border-radius: 9999px;
 }
-.wp-caption,
-.wp-caption-text,
-.sticky,
-.gallery-caption,
-.sticky,
-.gallery-caption,
-.bypostauthor {
-  font-size: 1em;
+html {
+  font-size: 5vw;
 }
 section#primary {
   background-color: #000;
