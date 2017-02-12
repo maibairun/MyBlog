@@ -16,14 +16,6 @@
 
     <header id="masthead" class="site-header" role="banner">
 
-        <!-- 可自定义的 LOGO 图像，在 外观->自定义 中配置 -->
-        <?php if(has_header_image()) { ?>
-        <img src="<?php header_image(); ?>" class="logo"
-             height="<?php echo get_custom_header()->height; ?>"
-             width="<?php echo get_custom_header()->width; ?>"
-             alt="<?php bloginfo('title') ?>" />
-        <?php } ?>
-
     </header><!-- #masthead -->
 
     <div id="main" class="site-main">
