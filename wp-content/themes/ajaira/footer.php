@@ -55,7 +55,7 @@
 			<div class="site-info">
 				<a href="javascript:"><?php printf( esc_html__( 'Proudly powered by %s', '' ), 'WordPress' ); ?></a>
 				<span class="sep"> | </span>
-                <a href="javascript:">潤 (￣▽￣") </a>
+                <a href="javascript:"> 麦柏润的个人空间 </a>
 			</div><!-- .site-info -->
 		</div><!--  .row -->
 	</footer><!-- #colophon -->
