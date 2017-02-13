@@ -479,9 +479,10 @@ table {
 --------------------------------------------------------------*/
 	header.site-header{
 		margin-bottom: 40px;
+		background-color: pink;
 	}
 	.menu-wrapper{
-		background: #000;
+		background: brown;
 	}
 	.test-menu{
 		position: relative;
