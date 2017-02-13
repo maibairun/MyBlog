@@ -53,9 +53,9 @@
                 </div>
       <?php endif; ?>
 			<div class="site-info">
-				<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'ajaira' ) ); ?>"><?php printf( esc_html__( 'Proudly powered by %s', 'ajaira' ), 'WordPress' ); ?></a>
+				<a href="javascript:"><?php printf( esc_html__( 'Proudly powered by %s', '' ), 'WordPress' ); ?></a>
 				<span class="sep"> | </span>
-				<?php printf( esc_html__( 'Theme: %1$s by %2$s.', 'ajaira' ), 'ajaira', '<a href="http://mrakib.me/" rel="designer">rakib</a>' ); ?>
+                <a href="javascript:">潤 (￣▽￣") </a>
 			</div><!-- .site-info -->
 		</div><!--  .row -->
 	</footer><!-- #colophon -->
